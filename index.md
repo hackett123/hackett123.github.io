@@ -1,15 +1,12 @@
 ---
 layout: default
-title: CIS 110 Spring 2020 — Introduction to Computer Programming
+title: Michael Hackett
 active_tab: main-page
 ---
 {: .dl-horizontal}
 
-## Header
+## Michael Hackett
 
-### Third line
-
-some text
+Welcome to the site of Michael Hackett.
 
 ---
-divider above
